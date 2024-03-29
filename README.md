@@ -15,7 +15,7 @@ The scraped data is then stored in CSV format. You can perform various operation
 
 1. Ensure you have Google Chrome installed on your machine.
 2. Clone this repository to your local machine.
-3. Install the necessary dependencies.
+3. Install the necessary dependencies {Python: 3.12.2, Selenium: 4.1.0, tqdm: 4.66.2}.
 4. Run the `whatsapp_scraper.py` script.
 5. Scan the QR code displayed in the Chrome browser to log in to WhatsApp Web.
 6. Specify the chat you want to scrape.
